@@ -17,8 +17,9 @@ setup(
         'vector-quantize-pytorch',
         'protobuf'
         'accelerate'
-    ],
-    dependency_links=[
-        'git+https://github.com/getuka/RubyInserter.git#egg=RubyInserter',
+        'ffmpeg'
+        'soundfile'
+        'vector-quantize-pytorch',
+        "RubyInserter @ git+https://github.com/getuka/RubyInserter.git"
     ],
 )
