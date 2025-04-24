@@ -15,10 +15,10 @@ setup(
         'transformers==4.44.2',
         'einops',
         'vector-quantize-pytorch',
-        'protobuf'
-        'accelerate'
-        'ffmpeg'
-        'soundfile'
+        'protobuf',
+        'accelerate',
+        'ffmpeg',
+        'soundfile',
         'vector-quantize-pytorch',
         "RubyInserter @ git+https://github.com/getuka/RubyInserter.git"
     ],
