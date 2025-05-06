@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='canary_tts',               # プロジェクト名
-    version='0.2.0',                 # バージョン
+    version='0.2.1',                 # バージョン
     packages=find_packages(include=[
         'canary_tts', 'canary_tts.*'
     ]),
@@ -20,6 +20,7 @@ setup(
         'ffmpeg',
         'soundfile',
         'vector-quantize-pytorch',
-        "RubyInserter @ git+https://github.com/getuka/RubyInserter.git"
+        "RubyInserter @ git+https://github.com/getuka/RubyInserter.git",
+        "scipy"
     ],
 )
