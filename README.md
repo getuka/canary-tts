@@ -12,3 +12,5 @@ pip install git+https://github.com/getuka/canary-tts.git
 - リポジトリ: [HKUSTAudio/xcodec2](https://huggingface.co/HKUSTAudio/xcodec2)
 - ライセンス: CC BY‑NC 4.0
 
+- リポジトリ: [OuteAI/OuteTTS](https://github.com/edwko/OuteTTS)
+- ライセンス: Apache-2.0
